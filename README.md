@@ -11,3 +11,9 @@ Image Compression
 Image Transformation
 Image Segmentation.
 Removal of Rain Streak from an Image (Powerpoint slides)
+
+Requirements to run code and .py files
+1. Python 2.7
+2. Atom or Notepad++
+3. Python IDE
+4. Command Line or GUI Based Interface to run commands
